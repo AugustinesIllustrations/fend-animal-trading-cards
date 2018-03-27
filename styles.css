@@ -1,0 +1,61 @@
+h3 {
+  font-family: sans-serif;
+  color: #FF4500;
+  margin-left: 5px;
+}
+
+.italic {
+  font-style: italic;
+  margin-right: 150px;
+  padding-left: 5px;
+}
+/* Below, is the entire 3 paragraphs */
+p {
+  width: 300px;
+  padding-top: 4px;
+  padding-left: 5px;
+  padding-bottom: 10px;
+  margin: 0px 0px 0px 0px;
+}
+
+ul {
+  list-style-type: none;
+  width: 300px;
+  padding-left: 5px;
+}
+/* Text that is in bold */
+span {
+    font-weight: bold;
+    text-align: left;
+}
+
+img {
+  height: 200px;
+  width: 300px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  border-style:ridge;
+  border-color: #FF4500;
+  border-width: 10px 10px 10px 10px;
+}
+
+.container {
+  background-color: #5cb6f2;
+  border-width: 1px 1px 1px 1px;
+  border-style: solid;
+  width: 300px;
+  padding: 10px 40px 40px 20px;
+  margin: 40px 40px 40px 40px;
+  box-shadow: 0px 8px 10px 0px #808080;
+}
+
+.bottom {
+  position: relative;
+  border-width: 2px 2px 2px 2px;
+  border-style: solid;
+  border-color: #FF4500;
+  width: 300px;
+  padding: 8px 10px 20px 4px;
+
+}
